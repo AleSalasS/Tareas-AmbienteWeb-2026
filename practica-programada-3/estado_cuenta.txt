@@ -1,0 +1,36 @@
+============================================
+           ESTADO DE CUENTA                 
+============================================
+
+DETALLE DE TRANSACCIONES
+--------------------------------------------
+ID: 1
+Descripcion: Compra de supermercado
+Monto: ₡25,000.00
+--------------------------------------------
+ID: 2
+Descripcion: Compra de videojuegos
+Monto: ₡35,000.00
+--------------------------------------------
+ID: 3
+Descripcion: Compra de ropa
+Monto: ₡18,000.00
+--------------------------------------------
+ID: 4
+Descripcion: Compra de accesorios
+Monto: ₡12,000.00
+--------------------------------------------
+ID: 5
+Descripcion: Compra de alimentos
+Monto: ₡15,000.00
+--------------------------------------------
+
+RESUMEN DE CUENTA
+--------------------------------------------
+Total de contado: ₡105,000.00
+Interes (2.6%): ₡2,730.00
+Total con intereses: ₡107,730.00
+Cashback (0.1%): -₡105.00
+--------------------------------------------
+MONTO FINAL A PAGAR: ₡107,625.00
+============================================
